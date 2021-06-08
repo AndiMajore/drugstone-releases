@@ -24,6 +24,6 @@ Previous versions (e.g. v0.4.3) can also be used:
 For local development the following dev versions may be used:
 
 ```
- <script src="https://cdn.jsdelivr.net/gh/AndiMajore/drugstone-releases@v0.4.4-dev/dev/drugsTone.js"></script>
- <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/AndiMajore/drugstone-releases@v0.4.4-dev/dev/styles.css">
+ <script src="https://cdn.jsdelivr.net/gh/AndiMajore/drugstone-releases@v0.4.4/dev/drugsTone.js"></script>
+ <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/AndiMajore/drugstone-releases@v0.4.4/dev/styles.css">
 ```
